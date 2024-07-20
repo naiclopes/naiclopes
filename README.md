@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @naiclopes 
 - 👀 I’m interested in  Back e Front End
-- 🌱 I’m currently learning Angular  
+- 🌱 I’m currently learning Inteligência Artificial  
 - 💞️ I’m looking to collaborate on  desenvolvimento web, requisitos, banco de dados e gestão de projetos. 
-- 📫 How to reach me  e-mail naiclopes@hotmail.com
+- 📫 How to reach me  e-mail naiclopes@gmail.com
 - 
 
 <!---
